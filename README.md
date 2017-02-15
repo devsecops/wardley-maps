@@ -6,4 +6,4 @@ For DevSecOps, we have developed the following map to show the changing landscap
 
 *Figure 1*
 
-![Wardley Map for DevSecOps](wardley-devsecops-lg.png)
+![Wardley Map for DevSecOps](wardley-devsecops-1.0.png)
