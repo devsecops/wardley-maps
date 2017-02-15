@@ -1,8 +1,8 @@
 # Wardley Maps for Security
 
-Wardley Maps are very useful for mapping out strategies and terrain to help with advancing security controls and efforts.  We're using this format to begin an effort that helps security groups to uplevel their security programs by mapping the changing landscape.
+Wardley Maps are very useful for mapping out strategies along with terrain to advance security controls and efforts.  For those not familiar with this concept, it was developed by Simon Wardley (@swardley) and has derived into a very useful tool for prioritizing the right work at the right time to increase the odds of successfully completing a mission.   The DevSecOps tribe is using this format to begin an effort that helps security teams to uplevel their security programs and share forward momentum without getting lost in minutia.
 
-For DevSecOps, we have developed the following map to show the changing landscape for security with the emergence of DevOps, Mobile, and greater demands for security in software.  
+In order to get the ball rolling, we have developed the following map to show the changing landscape for security with the emergence of DevOps, Mobile, and greater demands for security in software.  We're completely open to feedback on this map and will continue to develop greater depth via add-on maps to further illustrate community efforts towards transforming security to meet the demands of DevOps. 
 
 *Figure 1*
 
